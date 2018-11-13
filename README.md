@@ -15,7 +15,7 @@ Watson IoT is a powerful service where you can display your data from your devic
 ![home](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/home-cloud.png)
 - Click add the sign up button
 
-![home](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/personal-details)
+![home](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/personal-details.png)
 
 - Fill in the form with your personal details
 - Confirm the mail from your mailbox 
