@@ -100,6 +100,9 @@ If you don't have these credentials anymore then you unfortunately have to do st
 
 - Now we are gonna install the libraries which are needed for the Arduino, otherwise you get a error while you wanna upload the code to the nodeMcu go to sketch -> include library -> manage libraries
 
+- ![lib](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/manage-lib)
+
+
 
 ## Step 5 data visualisation
 
