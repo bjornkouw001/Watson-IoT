@@ -65,6 +65,10 @@ Now we gonna make a dashboard for our IoT Watson application.
 - Click on nect till you are on the summary 
 - Control if everything is correct and click on create
 - Now you get your device credentials store this save for example in a word document
+- ![Device-cred](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/device-cred.png)
+
+- If everything is correct  you have to get the screen like right below this sentences. 
+![Device-cred](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/device-cred.png)
 
 
 
