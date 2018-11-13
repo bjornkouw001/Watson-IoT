@@ -36,7 +36,7 @@ Now we gonna make a dashboard for our IoT Watson application.
 ![IoT](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/menu-cloud.png)
 
 
-![home](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/home-cloud.png)
+![home](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/)
 
 
 
