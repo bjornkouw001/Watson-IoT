@@ -111,7 +111,7 @@ If you don't have these credentials anymore then you unfortunately have to do st
 - Do the same with the librarie ArduinoJson
 
 - Now we are gonna connect an lightsensor to the Arduino as right below.
-![man-lib](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/Arduino-sketch)
+![man-lib](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/Arduino-sketch.png)
 
 - Now we are gonna upload our code to the Arduino.
 
