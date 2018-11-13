@@ -86,6 +86,7 @@ We are gonna connect the NodeMcu with the IoT Watson platform.
 
 - We are gonne change the default credentials, you have received at the end of step 3. Put your information in between the quotation marks.
 
+- ![Cust-wifi](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/define.png)
 
 so #define ORG "ic01na" will be #define ORG "your organisation number"
 #define DEVICE_TYPE "NodeMcu" will be #define DEVICE_TYPE "your device type"
