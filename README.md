@@ -59,6 +59,13 @@ Now we gonna make a dashboard for our IoT Watson application.
 - Write in the description what arduino you got for exameple ESP 8266 NodeMcu and go to the next page
 - Write as model Node MCU and click next
 - Skip the meta data and click on create 
+- After this choose your device which you had created and click next
+- ![Choose-device](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/choose-device.png)
+- Create a device ID and call this whatever you want
+- Click on nect till you are on the summary 
+- Control if everything is correct and click on create
+- Now you get your device credentials store this save for example in a word document
+
 
 
 ## Step 4 Connect the Arduino 
