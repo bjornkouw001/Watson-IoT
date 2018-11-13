@@ -38,20 +38,22 @@ Now we gonna make a dashboard for our IoT Watson application.
 
 - Search for "internet of things platform" 
 
-![home](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/IOT-platform.png)
+![platform](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/IOT-platform.png)
 
 
 - Select the free version 
 
 - Click on create 
 
-- If everything goes well you then you have to see the screen right below otherwise try to check if the organisation is your emailadress and "choose a space" is on dev.
+- If everything goes well you then you have to see the screen right below otherwise make sure that the organisation is your emailadress and "choose a space" is on dev.
 
-![home](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/)
+![IoT-start](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/IoT-start)
 
 
 ## Step 3 Add a new device to the Watson IoT platform
-- Welcome to the Watson IoT platform
+- Welcome to the Watson IoT platform now we gonna select a device for 
+- Go to the menu and click on add device.
+- 
 
 
 ## Step 4 Connect the Arduino 
