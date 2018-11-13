@@ -130,6 +130,7 @@ If you don't have these credentials anymore then you unfortunately have to do st
 - You can see that the data will be received at the IBM Watson IoT platform diveces -> Logs and you will see data coming in. 
 ![false-hots](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/logs.png)
 
+
 ## Step 5 data visualisation
 
 ## Step 6 Connect the database
