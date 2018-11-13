@@ -100,9 +100,35 @@ If you don't have these credentials anymore then you unfortunately have to do st
 
 - Now we are gonna install the libraries which are needed for the Arduino, otherwise you get a error while you wanna upload the code to the nodeMcu go to sketch -> include library -> manage libraries
 
-- ![lib](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/manage-lib)
+- ![lib](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/libraries.png) I have already installed the librarie that is why I cant install him.
+
+- Now we gonna search for PubSubClient
+
+- ![man-lib](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/pubsub.png)
+
+- Choose the latest version and click on install
+
+- Do the same with the librarie ArduinoJson
+
+- Now we are gonna connect an lightsensor to the Arduino as right below.
+![man-lib](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/Arduino-sketch)
+
+- Now we are gonna upload our code to the Arduino.
+
+- Open the serial monitor on 9600
+
+- If you see this everything goes well the data will be send to IBM Watson and the serial monitor will look like as right below.
+![man-lib](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/data-goed.png)
 
 
+- If you see something like the example below the Arduino can't connect to the network try your hotspot instead.
+![false-hots](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/dots.png)
+
+- If the serial monitor looks like this then there is something wrong with your credentials
+![false-cred](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/false-cred.png)
+
+- You can see that the data will be received at the IBM Watson IoT platform diveces -> Logs and you will see data coming in. 
+![false-hots](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/logs.png)
 
 ## Step 5 data visualisation
 
