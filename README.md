@@ -68,9 +68,9 @@ Now we gonna make a dashboard for our IoT Watson application.
 - ![Device-cred](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/device-cred.png)
 
 - If everything is correct  you have to get the screen like right below this sentences. 
-![Device-cred](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/device-cred.png)
+![End-3](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/end-3.png)
 
-
+- If you don't get this state try to add a device again
 
 ## Step 4 Connect the Arduino 
 
