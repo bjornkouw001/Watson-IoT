@@ -93,10 +93,12 @@ so #define ORG "ic01na" will be #define ORG "your organisation number"
 #define DEVICE_ID "demoDevice" will be #define DEVICE_ID "your device ID"
 #define TOKEN "JZp5ytS*_)H!tZf*EM" will be #define DEVICE_ID "your device ID"
 
--
+
 
 If you don't have these credentials anymore then you unfortunately have to do step 3 all over again.
 
+
+- Now we are gonna install the libraries which are needed for the Arduino, otherwise you get a error while you wanna upload the code to the nodeMcu go to sketch -> include library -> manage libraries
 
 
 ## Step 5 data visualisation
