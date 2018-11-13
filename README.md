@@ -28,9 +28,18 @@ Watson IoT is a powerful service where you can display your data from your devic
 ## Step 2 Create an IBM Watson IoT dashboard 
 Now we gonna make a dashboard for our IoT Watson application.
 
--Go to dashboards in the pancake menu
+- Go to dashboards in the pancake menu
+![menu](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/menu-cloud.png)
 
-![menu](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/home-cloud.png)
+- Click on create a resource 
+
+![IoT](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/menu-cloud.png)
+
+
+![home](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/home-cloud.png)
+
+
+
 
 ## Step 3 Add a new device to the Watson IoT platform
 
