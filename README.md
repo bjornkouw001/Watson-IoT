@@ -11,6 +11,7 @@ Watson IoT is a powerful service where you can display your data from your devic
 
 
 ## Step 1 Make an account at IBM Cloud 
+First we gonna make an account at IBM cloud, this is a service were u can use many API's such as AI and ofcoure the Watson IoT platform.
 - Go to https://www.ibm.com/cloud/
 
 - Click add the sign up button
@@ -36,12 +37,12 @@ Now we gonna make a dashboard for our IoT Watson application.
 ![IoT](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/menu-cloud.png)
 
 
-- Search for "internet of things platform" 
+- Search for "internet of things platform" because we wanna connect our IoT device
 
 ![platform](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/IOT-platform.png)
 
 
-- Select the free version 
+- Select the free version because this is good for now
 
 - Click on create 
 
@@ -54,7 +55,7 @@ Now we gonna make a dashboard for our IoT Watson application.
 - Welcome to the Watson IoT platform now we gonna select a device for 
 - Go to the menu and click on add device.
 - ![Add-device-button](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/Add-device-button.png)
-- After that you get 2 chooses, choose create device type
+- After you get 2 chooses, choose "create device type" 
 - Choose a name whatever you want for your device 
 - Write in the description what arduino you got for exameple ESP 8266 NodeMcu and go to the next page
 - Write as model Node MCU and click next
@@ -64,7 +65,7 @@ Now we gonna make a dashboard for our IoT Watson application.
 - Create a device ID and call this whatever you want
 - Click on nect till you are on the summary 
 - Control if everything is correct and click on create
-- Now you get your device credentials store this save for example in a word document
+- VERY IMPORTANT Now you get your device credentials store this save for example in a word document
 - ![Device-cred](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/device-cred.png)
 
 - If everything is correct  you have to get the screen like right below this sentences. 
@@ -78,9 +79,23 @@ We are gonna connect the NodeMcu with the IoT Watson platform.
 - Go to this URL https://github.com/t2t-sonbui/IBM-Watson-Internet-of-Things-Tutorial/blob/master/esp8266code/esp8266code.ino
 - Copy paste the code in the Arduino editor, if you don't have the Arduino editor installed you can download him here https://www.arduino.cc/en/Main/Software
 
-- Make a new sketch and delete every code in the sketch, after that copy paste the code from github in the editor
+- Make a new sketch and delete every code in the sketch, after that copy paste the code from github in the editor.
 
-- ![Cust-wifi](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/)
+- Now we are gonna customize the wifi code "ssid" means your wifi network, and "password" means the password of the wifi network. 
+- ![Cust-wifi](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/wifi-cust.png)
+
+- We are gonne change the default credentials, you have received at the end of step 3. Put your information in between the quotation marks.
+
+
+so #define ORG "ic01na" will be #define ORG "your organisation number"
+#define DEVICE_TYPE "NodeMcu" will be #define DEVICE_TYPE "your device type"
+#define DEVICE_ID "demoDevice" will be #define DEVICE_ID "your device ID"
+#define TOKEN "JZp5ytS*_)H!tZf*EM" will be #define DEVICE_ID "your device ID"
+
+-
+
+If you don't have these credentials anymore then you unfortunately have to do step 3 all over again.
+
 
 
 ## Step 5 data visualisation
