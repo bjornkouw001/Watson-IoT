@@ -47,13 +47,18 @@ Now we gonna make a dashboard for our IoT Watson application.
 
 - If everything goes well you then you have to see the screen right below otherwise make sure that the organisation is your emailadress and "choose a space" is on dev.
 
-![IoT-start](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/IoT-start)
+![IoT-start](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/IoT-start.png)
 
 
 ## Step 3 Add a new device to the Watson IoT platform
 - Welcome to the Watson IoT platform now we gonna select a device for 
 - Go to the menu and click on add device.
-- 
+- ![Add-device-button](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/Add-device-button.png)
+- After that you get 2 chooses, choose create device type
+- Choose a name whatever you want for your device 
+- Write in the description what arduino you got for exameple ESP 8266 NodeMcu and go to the next page
+- Write as model Node MCU and click next
+- Skip the meta data and click on create 
 
 
 ## Step 4 Connect the Arduino 
@@ -61,10 +66,5 @@ Now we gonna make a dashboard for our IoT Watson application.
 ## Step 5 data visualisation
 
 ## Step 6 Connect the database
-
-## Step 7 Add a database
-
-
-## Step 8 Add a database
 
 
