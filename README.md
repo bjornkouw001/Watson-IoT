@@ -70,9 +70,18 @@ Now we gonna make a dashboard for our IoT Watson application.
 - If everything is correct  you have to get the screen like right below this sentences. 
 ![End-3](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/end-3.png)
 
-- If you don't get this state try to add a device again
+- If you don't get this state try to add a device again and check your description from your NodeMcu. The warning sign means that the device is not connected, but we gonna fix that at step 4.
 
 ## Step 4 Connect the Arduino 
+We are gonna connect the NodeMcu with the IoT Watson platform. 
+
+- Go to this URL https://github.com/t2t-sonbui/IBM-Watson-Internet-of-Things-Tutorial/blob/master/esp8266code/esp8266code.ino
+- Copy paste the code in the Arduino editor, if you don't have the Arduino editor installed you can download him here https://www.arduino.cc/en/Main/Software
+
+- Make a new sketch and delete every code in the sketch, after that copy paste the code from github in the editor
+
+- ![Cust-wifi](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/)
+
 
 ## Step 5 data visualisation
 
