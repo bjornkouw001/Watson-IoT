@@ -136,7 +136,7 @@ I have already installed the librarie that is why I cant install him.
 Now we are gonna display the data which we get from the Arduino into a diagram which we can easy understand.
 
 - Go into the menu and select "boards".
-![false-hots](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/menu-boards.png)
+![false-hots](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/menu-board.png)
 
 - Click on create a new board because we want a new board to be created
 ![false-hots](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/addboard.png)
