@@ -100,7 +100,8 @@ If you don't have these credentials anymore then you unfortunately have to do st
 
 - Now we are gonna install the libraries which are needed for the Arduino, otherwise you get a error while you wanna upload the code to the nodeMcu go to sketch -> include library -> manage libraries
 
-- ![lib](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/libraries.png) I have already installed the librarie that is why I cant install him.
+- ![lib](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/libraries.png)
+I have already installed the librarie that is why I cant install him.
 
 - Now we gonna search for PubSubClient
 
@@ -132,7 +133,55 @@ If you don't have these credentials anymore then you unfortunately have to do st
 
 
 ## Step 5 data visualisation
+Now we are gonna display the data which we get from the Arduino into a diagram which we can easy understand.
 
-## Step 6 Connect the database
+- Go into the menu and select "boards".
+![false-hots](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/menu-boards.png)
+
+- Click on create a new board because we want a new board to be created
+![false-hots](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/addboard.png)
+
+- Call the board whatever you like and click next and leave the boardsettings on default because we don't want to have an other user is able to look at this board.
+
+- Your new board appeared, click on your new board
+![false-hots](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/new-board.png)
+
+
+
+![false-hots](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/empty-board.png)
+- This is the empty state of the board but we gonna ad a new card
+
+- We gonna choose a line chart
+
+- Now we gonna choose our device
+
+![false-hots](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/device-choose-board.png)
+
+- We gonna have to choose what we wanna display in our case is that "status"
+- As Property we take ADC (predifened in the Arduino code) 
+- Name the line chart whatever you would like, choose as type number and unit lx (ligt will be measured by lx) and as max 1024 (that is the max of our Sensor) right below there is an example. After this click on next.
+
+![false-hots](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/line-chart-value.png)
+
+- When everything is correct you have to see something like the image below.
+
+![false-hots](https://raw.githubusercontent.com/bjornkouw001/Watson-IoT/master/lijn.png)
+
+- When you don't see any data in the line chart there is something wrong with display and propert check if these are correct 
+
+- Feel free to experiment and add more charts and diagrams
+
+
+
+## More information
+- If you wanne know more about the Watson I can recommend these tutorials and websites.
+
+https://www.youtube.com/watch?v=b6PDEfRyGbs Tutorial about the IBM cloud
+https://www.ibm.com/watson/ introduction about Watson
+https://www.youtube.com/watch?v=sBX9Zoe5Occ Tutorial about Watson Dataplatform where you can use the IoT data for an AI
+https://www.ibm.com/internet-of-things What is IoT by IBM
+
+
+
 
 
