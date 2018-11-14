@@ -176,10 +176,10 @@ Now we are gonna display the data which we get from the Arduino into a diagram w
 ## More information
 - If you wanne know more about the Watson I can recommend these tutorials and websites.
 
-https://www.youtube.com/watch?v=b6PDEfRyGbs Tutorial about the IBM cloud
-https://www.ibm.com/watson/ introduction about Watson
-https://www.youtube.com/watch?v=sBX9Zoe5Occ Tutorial about Watson Dataplatform where you can use the IoT data for an AI
-https://www.ibm.com/internet-of-things What is IoT by IBM
+- https://www.youtube.com/watch?v=b6PDEfRyGbs Tutorial about the IBM cloud
+- https://www.ibm.com/watson/ introduction about Watson
+- https://www.youtube.com/watch?v=sBX9Zoe5Occ Tutorial about Watson Dataplatform where you can use the IoT data for an AI
+- https://www.ibm.com/internet-of-things What is IoT by IBM
 
 
 
