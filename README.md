@@ -2,7 +2,7 @@
 How to connect your Arduino to the Watson IoT platform?
 
 ## What is Watson IoT
-Watson IoT is a powerful service where you can display your data from your device online, from whatson IoT you can export your to Watson data platform were you can feed this data to an AI. In this README we are gonna focus how you can sent your data from an Arduino to the Watson IoT platform.
+Watson IoT is a powerful service where you can display your data from your device online, from Watson IoT you can export your to Watson data platform were you can feed this data to an AI. In this README we are gonna focus how you can sent your data from an Arduino to the Watson IoT platform.
 
 ### Requirements
 - NodeMcu
